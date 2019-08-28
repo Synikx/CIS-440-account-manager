@@ -1,3 +1,3 @@
 # CIS-440-account-manager
 
-UPDATE TEST 
+UPDATE TEST using cmd 
